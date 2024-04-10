@@ -42,4 +42,4 @@ function Login(User_Name, Password) {
   function Clear() {
     document.getElementById("User_Name").value = "";
     document.getElementById("Password").value = "";
-  
+  }
